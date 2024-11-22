@@ -3,3 +3,7 @@ function fib(n){
 }
 
 console.log(fib(5))
+
+function theme(){
+  console.log("theme")
+}
